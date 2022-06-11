@@ -1,12 +1,12 @@
 # The Purge 15 of 16
 
-A save game file for creative mode players who want to skip most of the quests and get straight to exploring or building. 
+A save game file for creative mode players who want to skip most of the main quests which have been around (unchanged) for years and get straight to exploring, building and/or trying out newer things like A Trace of Metal and Under A Rebel Star.
 
 ## Description
 
 If you are a long-time player and chronic restarter (like me), this will help you each time you want to start a new save. When you load the game, you will be about 5 minutes away from choosing a new galaxy.
 
-## Getting Started
+## Below is a list of quests or missions and their status in this save file.
 
 ### Primary missions
 
@@ -47,6 +47,10 @@ If you are a long-time player and chronic restarter (like me), this will help yo
 #### When you restart your new save, you will now be on a Paradise planet next to a portal with just a base computer, a teleporter and your ship. Get in your ship and warp once in any direction. You will now be at 16 of 16 and the final interface will appear.
 
 #### Once you land, activate and enter it, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere and you can travel back and forth to Euclid.
+
+### Note:
+* It took approx. 5 hours of playtime to get to this point in the save. However, I have reset the in-game playtime to 0:00 to give you a better idea of your own progression though the game.
+
 
 ### Screenshot of where you will start:
 
